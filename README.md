@@ -1,15 +1,11 @@
 ## Universidade Federal de Lavras
-Curso: Sistemas de informação <br><br>
-Disciplinas: Progamação WEB <br><br>
-Trabalho: Documentação Tecnologia <br><br>
-
+Curso: Sistemas de informação <br>
+Disciplina: Progamação WEB <br>
+Trabalho: Documentação Tecnologia <br>
 <br>
-
-## Documentação
-jQuery: https://jquery.com/ <br><br>
-
+## Referência documentação
+jQuery: https://jquery.com/ <br>
 <br>
-
 ## Integrantes
 Ivan Maximiano
 Jamilly Danielle
