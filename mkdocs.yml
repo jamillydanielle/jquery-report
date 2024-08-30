@@ -1,12 +1,12 @@
 site_name: jQuery Technical Report
 nav:
-  - Home: index.md
-  - Introduction: introduction.md
-  - Features: features.md
-  - Usage: usage.md
-  - Advanced Topics: advanced.md
-  - References: references.md
+  - Índice: index.md
+  - Introdução: introduction.md
+  - Características: features.md
+  - Utilização: usage.md
+  - Tópicos Avançados: advanced.md
+  - Referências: references.md
 
 theme:
-  name: 'swan'
+  name: 'mkdocs'
   highlightjs: true

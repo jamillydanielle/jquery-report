@@ -1,11 +1,11 @@
-# Welcome to the jQuery Technical Report!
+# Bem vindo(a) ao relatório técnico sobre a biblioteca JavaScript jQuery!
 
 Esta documentação fornece uma visão geral do jQuery, incluindo seus recursos, uso e tópicos avançados.
 
-## Contents
+## Conteúdo
 
-- [Introduction](introduction.md)
-- [Features](features.md)
-- [Usage](usage.md)
-- [Advanced Topics](advanced.md)
-- [References](references.md)
+- [Introdução](introduction.md)
+- [Características](features.md)
+- [Utilização](usage.md)
+- [Tópicos Avançados](advanced.md)
+- [Referências](references.md)
