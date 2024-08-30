@@ -16,7 +16,7 @@ Instalação MkDocs <br>
 ```pip install mkdocs```
 <br><br>
 Instalação tema SWAN <br>
-```pip install mkdocs-swan```
+```pip install mkdocs-cinder```
 <br><br>
 Build/ Inicializar servidor <br>
 ```mkdocs serve```

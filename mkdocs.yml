@@ -8,5 +8,5 @@ nav:
   - Referências: references.md
 
 theme:
-  name: 'swan'
+  name: 'cinder'
   highlightjs: true
