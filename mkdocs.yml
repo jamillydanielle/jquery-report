@@ -8,5 +8,5 @@ nav:
   - Referências: references.md
 
 theme:
-  name: 'mkdocs'
+  name: 'swan'
   highlightjs: true
