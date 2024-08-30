@@ -1,7 +1,8 @@
-# Introduction to jQuery
+# Introdução ao jQuery
 
-O jQuery é uma biblioteca JavaScript rápida, pequena e rica em recursos. Ela simplifica muito a passagem e a manipulação de documentos HTML, o tratamento de eventos e a animação com uma API fácil de usar que funciona em vários navegadores.
+Criado com o objetivo de simplificar a manipulação do DOM, eventos, animações e interações AJAX, o jQuery rapidamente se tornou popular por sua capacidade de resolver problemas comuns de compatibilidade entre navegadores. Com o lema "Escreva menos, faça mais", a biblioteca tornou o desenvolvimento web mais acessível e eficiente.
 
-## History
+## Breve História
 
-A jQuery foi criada por John Resig em 2006. Desde então, ela se tornou uma das bibliotecas JavaScript mais populares do mundo.
+O jQuery é uma biblioteca JavaScript que foi lançada em 2006 por John Resig.
+Durante os anos 2000 e início de 2010, jQuery foi a biblioteca mais utilizada na web, sendo a base para muitos plugins e ferramentas. Embora frameworks modernos tenham surgido, o jQuery ainda é amplamente utilizado em projetos legados e novos que precisam de uma solução leve e fácil de implementar.

@@ -7,5 +7,16 @@ Trabalho: Documentação Tecnologia <br>
 jQuery: https://jquery.com/ <br>
 <br>
 ## Integrantes
-Ivan Maximiano
-Jamilly Danielle
+Ivan Maximiano<br>
+Jamilly Danielle <br>
+<br>
+## Dependências
+
+Instalação MkDocs <br>
+```pip install mkdocs```
+<br><br>
+Instalação tema SWAN <br>
+```pip install mkdocs-swan```
+<br><br>
+Build/ Inicializar servidor <br>
+```mkdocs serve```
