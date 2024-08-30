@@ -8,5 +8,5 @@ nav:
   - Referências: references.md
 
 theme:
-  name: 'cinder'
+  name: 'mkdocs'
   highlightjs: true
